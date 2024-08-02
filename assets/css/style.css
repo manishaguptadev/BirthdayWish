@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.birthday-box {
+  max-width: 44rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.dob {
+  font-size: 7rem;
+}
+
+.playfair {
+  font-family: "Playfair Display", serif;
+}
+
+.main-wrapper {
+  height: 100vh;
+}
+
+.corn-flower-blue {
+  color: cornflowerblue;
+}
+
+.pink {
+  color: pink;
+  text-shadow: 4px 2px 10px pink;
+}
+
+.gray {
+  color: gray !important;
+}
+
+.numbers {
+  text-shadow: 2px 1px 2px black;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 1px black;
+}
