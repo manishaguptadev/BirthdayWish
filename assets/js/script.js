@@ -1,4 +1,4 @@
-let countDateTime = new Date("August 23, 2024 12:00:00").getTime();
+let countDateTime = new Date("August 23, 2024 00:00:00").getTime();
 
 let birthdayCounter = setInterval(() => {
   let now = new Date().getTime();
